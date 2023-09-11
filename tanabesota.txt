@@ -1,1 +1,3 @@
 tanabesotaのファイルです
+
+cui用に編集しました
